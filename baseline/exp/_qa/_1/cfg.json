@@ -1,0 +1,1 @@
+{"batch_size": 4, "learning_rate": 0.001, "random_seed": 42, "n_epoch": 50, "log_step": 15, "save_step": 3000, "d_emb": 300, "n_cls_layers": 2, "p_drop": 0.0, "weight_decay": 0.0, "model_path": "exp\\_qa\\_1", "log_path": "log\\_qa\\_1", "qa_data": "data\\SampleData_QA.json", "risk_data": "data\\SampleData_RiskClassification.csv"}
